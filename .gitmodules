@@ -1,0 +1,6 @@
+[submodule "lib/wzsh"]
+	path = lib/wzsh
+	url = https://github.com/wxnacy/wzsh
+[submodule "lib/.pyenv"]
+	path = lib/.pyenv
+	url = https://github.com/pyenv/pyenv
